@@ -13,17 +13,17 @@ This project focuses on converting 2D image coordinates obtained from a camera i
 
 ## Installation
 1. Clone the repository:
-   - git clone [repository-url]
+   - git clone https://github.com/NouraMaklad/Image-to-World-Coordinate-Transformation.git
 2. Navigate to the project directory:
-  - cd Image-to-World Coordinate Transformation
+   - cd Image-to-World Coordinate Transformation
 3. Install required packages:
-  - pip install -r requirements.txt
+   - pip install -r requirements.txt
 ## Usage
 **Camera Calibration:**
   - Run the calibration script:
       - python calibrate_and_simulate.py
   - Specify the path to the calibration images folder in the script.
-**Simulation:**
+**Simulation**
   - The script will automatically launch a PyBullet simulation to visualize the calibration results.
 ## Performance
   - Achieved an accuracy improvement of 95% in spatial transformations.
