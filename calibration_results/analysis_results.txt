@@ -1,0 +1,26 @@
+Test Image Analysis Results
+=========================
+
+Image dimensions: 1169x1600
+
+Corner Coordinates (first 5 corners):
+
+Corner 1:
+Pixel coordinates: (227.82, 219.47)
+World coordinates (mm): X=-20.86, Y=57.45, Z=-382.42
+
+Corner 2:
+Pixel coordinates: (369.05, 220.28)
+World coordinates (mm): X=-21.30, Y=32.60, Z=-382.42
+
+Corner 3:
+Pixel coordinates: (509.98, 221.66)
+World coordinates (mm): X=-21.66, Y=7.28, Z=-382.42
+
+Corner 4:
+Pixel coordinates: (649.88, 223.14)
+World coordinates (mm): X=-21.99, Y=-18.46, Z=-382.42
+
+Corner 5:
+Pixel coordinates: (790.22, 224.14)
+World coordinates (mm): X=-22.41, Y=-44.92, Z=-382.42
